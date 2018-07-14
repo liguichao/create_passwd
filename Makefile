@@ -23,7 +23,7 @@ CFLAGS := -Wall -O2 -g
 CFLAGS += -I $(shell pwd)/include
 
 #LDFLAGS := -lm -lfreetype -lvga -lvgagl
-LDFLAGS := 
+LDFLAGS := -lcrypt
 
 export CFLAGS LDFLAGS
 
