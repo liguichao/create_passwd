@@ -1,0 +1,6 @@
+*.o
+*.o.d
+*.swp
+*.bak
+*_app
+*.si4project
